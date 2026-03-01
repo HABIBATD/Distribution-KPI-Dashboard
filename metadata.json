@@ -1,0 +1,5 @@
+{
+  "name": "Distribution KPI Dashboard",
+  "description": "An MVP for a distribution KPI dashboard. It allows users to upload sales data via CSV, validates it against a strict schema, and displays key performance indicators in a clean, interactive interface with drill-down views and charts.",
+  "requestFramePermissions": []
+}
